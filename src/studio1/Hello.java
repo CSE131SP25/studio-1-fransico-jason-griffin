@@ -12,6 +12,7 @@ public class Hello {
 		
 		System.out.println("Hello and welcome to CSE 131!");
 		System.out.println("You seem to be feeling " + mood);
+		System.out.
 	}
 
 }
